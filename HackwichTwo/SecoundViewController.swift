@@ -26,6 +26,9 @@ class SecoundViewController: UIViewController {
         //On button press, set firstLabel to the string, "I did it"
         //Hint 1 Look up "UI label"
         //Hint 2 Look up "attributes of UI label"
+   
+        firstLabel.text = "I did it"
+    
     }
     /*
     // MARK: - Navigation
